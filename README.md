@@ -9,7 +9,7 @@ With the rise in digital payment channels, the number of fraudulent transactions
 In the banking industry, credit card fraud detection using machine learning is not just a trend but a necessity for them to put proactive monitoring and fraud prevention mechanisms in place. Machine learning is helping these institutions to reduce time-consuming manual reviews, costly chargebacks and fees, and denials of legitimate transactions.
 ## Understanding and Defining Fraud
 Credit card fraud is an act of unauthorized use of an individual's credit card information for financial gain. There are various types of credit card fraud, but one very common type is Skimming where the information is copied from the magnetic strip on the card. Common types includes:
-* Idetity Theft
+* Identity theft
 * Phisihing scams
 * Card not present(CNP)
 * Lost or Stolen card
